@@ -1,0 +1,6 @@
+------------------------------------
+| * Easy   / * Normal   / * Hard   |
+------------------------------------
+| > Easy < / * Normal   / * Hard   |
+| * Easy   / > Normal < / * Hard   |
+| * Easy   / * Normal   / > Hard < |
