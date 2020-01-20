@@ -1,5 +1,9 @@
 # Terminal Games 2.0
 
+## Update 2020/01/20
+Currently don't have time to work on this... Maybe this is another abandoned project... Or maybe I will come back a few months later...
+
+## General Info
 This is the reforged version of Simple Games (which was abandoned...).
 
 This program is made with C++, while using similar libraries from last one, as well as some codes and ideas from the previous repo.
